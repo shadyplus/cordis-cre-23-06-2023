@@ -1,0 +1,507 @@
+    @media (max-width: 1199px) {
+    /*Start Block1*/
+
+        .block1-head {
+            font-size: 27px;
+            position: relative;
+        }
+
+
+        .block1-head:after {
+            width: 34%;
+        }
+        .block1-head1 {
+            font-size: 50px;
+            margin: 10px auto 15px
+        }
+
+        .block-logo {
+            width: 70%;
+            margin: auto;
+        }
+        .block1-head2 {
+            font-size: 23px;
+            margin: 0 auto 20px;
+            width: 390px;
+        }
+
+        .block-img2 {
+            width: 100%;
+        }
+        .block1-contents-container-1 {
+            max-width: 355px;
+        }
+        .block1-contents-container {
+            padding: 30px 0;
+        }
+
+        .block1-btn {
+            width: 390px;
+            font-size: 37px;
+            margin: 30px auto 0;
+        }
+        /*Start Block2*/
+
+        .block2-head {
+            font-size: 30px;
+        }
+
+
+
+        /*Start block3*/
+
+        .block3-p {
+            font-size: 21px;
+        }
+        .block3-p2 {
+            font-size: 25px;
+        }
+        .block3-last {
+            font-size: 21px;
+        }
+        /*Start block5*/
+
+        .block5-container {
+            font-size: 21px;
+            margin: 35px 0 0;
+        }
+        .block5-container img {
+            width: 40px;
+        }
+
+        /*Start Block4*/
+
+        .block4-head {
+            font-size: 40px;
+            margin: 60px auto 31px;
+        }
+        .form-head {
+            font-size: 27px;
+            padding: 14px 0px;
+        }
+        .block4-price {
+            width: 100%;
+        }
+        .block4-last {
+            margin: 30px auto 0;
+        }
+
+}
+
+@media (max-width: 991px) {
+
+        .block1-contents-container-1 {
+            max-width: 270px;
+            margin: auto;
+        }
+
+        .block1-head {
+            font-size: 20px;
+        }
+        .block1-head1 {
+            font-size: 38px;
+        }
+        .block1-btn {
+            font-size: 27px;
+            width: 300px;
+        }
+        .block1-head2 {
+            font-size: 17px;
+            width: 300px;
+        }
+        .block1-head2:first-of-type {
+            margin-top: 50px;
+        }
+        /*Start Block2*/
+        .block2 {
+            padding: 25px 0 30px;
+        }
+        .block2-head {
+            font-size: 25px;
+        }
+
+        .block2-p img {
+            width: 100%;
+        }
+        /*Start block3*/
+        .block3 {
+            padding: 25px 0 30px;
+        }
+        .block3-p {
+            font-size: 15.2px;
+            margin-top: 44px;
+        }
+        .block3-img {
+            margin-top: 20px;
+        }
+
+        .block3.bottom {
+            padding: 25px 0;
+        }
+        .block3-p2 {
+            font-size: 19px;
+            margin-top: 30px;
+        }
+        .block3-last {
+            font-size: 16px;
+        }
+        .block3-img2 {
+            width: 90%;
+            margin:20px auto;
+        }
+
+        /*Start block5*/
+        .block5 {
+            padding: 25px 0 30px;
+        }
+        .block5-container {
+            font-size: 15px;
+            margin: 25px 0 0;
+        }
+
+        .block5-img {
+            width: 54%;
+        }
+
+
+        .block5-container img {
+            width: 30px;
+            margin-left: 10px;
+        }
+
+        /*Start Block4*/
+
+
+    .form-head {
+        font-size: 20px;
+    }
+        .block4-price {
+            width: 100%;
+            margin: 30px auto;
+        }
+
+        .form-control-input {
+            line-height: 35px;
+            font-size: 15px;
+        }
+        select.form-control-input {
+            height: 49px !important;
+        }
+
+        .form {
+             margin-top: 30px;
+            padding: 70px 15px 15px;
+         }
+
+        .block4-head {
+            font-size: 40px;
+            margin: 35px auto 31px;
+        }
+}
+
+@media (max-width: 767px) {
+    .block1-top {
+        position: relative;
+    }
+    .block-img2 {
+        width: 100%;
+        height: 230px;
+        background: url(../images/block1.1-Mobile.jpg) no-repeat center;
+        background-size: cover;
+    }
+    .block1 {
+        padding: 25px 0 ;
+        position: relative;
+    }
+    .block1-head {
+        font-size: 25px;
+        color: #000;
+        text-align: center;
+    }
+    .block1-head:after {
+        display: none;
+    }
+    .block1-head span {
+        width: 45%;
+        height: 3px;
+        position: relative;
+        left: 0px;
+        bottom: 0px;
+        background: #b12431;
+        display: inline-block;
+    }
+    .block1-head2 {
+        font-size: 28px;
+        width: 100%;
+    }
+    .block1-head1 {
+        font-size: 60px;
+        margin: 10px auto 45px;
+        text-align: center;
+    }
+    .block1-head1 span {
+        color: #000;
+    }
+    .block-img {
+        margin: auto;
+        position: absolute;
+        top: -15px;
+        left: 20px;
+        z-index: 25;
+        width: 43%;
+    }
+
+
+    .block1-btn {
+        font-size: 42px;
+        margin-top: 15px;
+        width: 100%;
+    }
+
+
+        /*Start Block2*/
+        .block2-p {
+            font-size: 18px;
+            margin-top: 0;
+        }
+        .block2 {
+            padding-bottom: 20px;
+        }
+        .block2-head4 {
+            font-size: 25px;
+            color: #fff;
+            line-height: 1.3;
+            position: relative;
+            margin-bottom: 15px;
+        }
+        .block2-img {
+            margin-top: 10px;
+            width: 100%;
+        }
+        .block2-container {
+            font-size: 13px;
+            margin: 5px 0;
+        }
+
+        .block2-container:before {
+            height: 88%;
+        }
+
+
+        /*Start block3*/
+        .block3 {
+            padding: 10px 0;
+        }
+
+        .block3-container {
+            height: 345px;
+            width: 100%;
+            background-size: 42%;
+        }
+        .block3-img {
+            width: 85%;
+            margin: 20px auto 0;
+        }
+        .block3-p {
+            font-size: 17px;
+            margin: 20px auto;
+        }
+        .block3-img2 {
+            width: 100%;
+        }
+        /*Start block5*/
+        .block5 {
+
+            background: url(../Rhino Gold_files/block3.1.jpg) no-repeat center;
+            background-size: cover;
+        }
+        .block5-container {
+            font-size: 25px;
+            margin: 25px 0 ;
+        }
+        .block5-container img {
+            width: 45px;
+        }
+         /*Start Block6*/
+        .block6-head2 {
+            font-size: 16px;
+            margin: 30px auto 0;
+            flex-direction: inherit;
+            text-align: right;
+        }
+        .block6-head2 img {
+            width: 23%;
+            margin-left: 20px;
+        }
+
+        /*Start Block4*/
+        .block4 {
+            padding: 1px 0 50px;
+        }
+        .form-head {
+            font-size: 32px;
+        }
+
+        .form {
+            padding: 100px 15px 15px;
+        }
+        .form-control-input {
+            line-height: 45px;
+            font-size: 15px;
+        }
+        select.form-control-input {
+            height: 59px !important;
+        }
+        .block4-price {
+            width: 100%;
+            margin:20px auto ;
+        }
+
+        .form-call {
+            font-size: 35px;
+        }
+
+        .last-img {
+            margin: 15px auto 0;
+            width: 80% !important;
+        }
+}
+
+@media (max-width: 576px) {
+    .block-img2 {
+        height: 30vw;
+        background: url("../Rhino Gold_files/block1.1.jpg") no-repeat center;
+        background-size: cover;
+        height: 100%;
+    }
+    .block-img {
+        width: 35vw;
+    }
+    .block-logo {
+        width: 90%;
+        margin: 0 auto -2vw;
+    }
+    .block1-head1 {
+        font-size: 11vw;
+        margin: 2vw auto 4vw;
+        padding-right: 15px;
+        line-height: 1;
+    }
+    .block1-head {
+        font-size: 5.7vw;
+        width: 100%;
+        margin-top: 3vw;
+    }
+
+    .block1 {
+        padding: 5vw 0 ;
+    }
+    .block1-contents-container-2 {
+        padding: 5vw 0;
+    }
+    .block1-container {
+        /* width: 90%; */
+    }
+    .block1-head2 {
+        font-size: 5.32vw;
+        margin-bottom: 5vw;
+    }
+    .block1-head2:before {
+        top: 2vw;
+        width: 4vw;
+    }
+    .block1-btn {
+        font-size: 9vw;
+        margin-top: 3vw;
+        width: 98%;
+        border-radius: 2vw;
+    }
+    .block1-btn div {
+        padding: 3vw 0;
+    }
+    .block1-btn > span {
+        padding: 4.3vw 0;
+        border-top-left-radius: 1vw;
+        border-bottom-left-radius: 1vw;
+    }
+
+        /*Start Block2*/
+    .block2 {
+        padding: 5vw 0;
+    }
+    .block2-head {
+        font-size: 4.8vw;
+    }
+    .block2-head:after {
+        width: 27%;
+        height: 2px;
+        left: 50%;
+        bottom: -10px;
+    }
+    .block2-img {
+        margin: 0vw auto;
+        width: 100%;
+    }
+    .block2-p {
+        font-size: 3.3vw;
+        margin-top: 3vw;
+    }
+        /*Start block3*/
+    .block3.bottom {
+        padding: 5vw 0;
+    }
+    .block3-p {
+        font-size: 4.8vw;
+        margin: 5vw auto 0;
+    }
+
+    .block3-p2 {
+        font-size: 4vw;
+        width: 90%;
+        margin: 7vw auto 0;
+        line-height: 1.7;
+    }
+    .block3-img2 {
+        margin: 3vw auto 0;
+    }
+        /*Start block5*/
+    .block5 {
+        padding: 5vw 0;
+    }
+    .block5-container {
+        font-size: 4.5vw;
+        margin: 6vw 0;
+    }
+    .block5-container img {
+        margin-bottom: 2vw;
+        width: 9vw;
+        margin-left: 2vw;
+    }
+
+    .block3-last {
+        font-size: 4vw;
+        margin-top: 0vw;
+    }
+        /*Start Block4*/
+    .block4 {
+        padding: 5vw 0 10vw;
+    }
+    .block4-price {
+        width: 100%;
+        margin: 2vw auto 0;
+    }
+    .form-head {
+        font-size: 5.7vw;
+    }
+
+    .form-control-input {
+        font-size: 4vw;
+    }
+    .form {
+        padding: 18vw 10px 15px;
+        margin-top: 5vw
+    }
+    .form .form-group {
+        margin-bottom: 3vw;
+    }
+}
